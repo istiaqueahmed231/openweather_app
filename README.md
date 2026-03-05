@@ -1,4 +1,4 @@
-# Weather Mine
+# OpenWeather App
 
 A beautiful, functional Flutter weather application inspired by OpenWeather. This app fetches real-time weather data and displays it in a clean, user-friendly interface using modern Flutter architecture and state management.
 
@@ -10,6 +10,13 @@ A beautiful, functional Flutter weather application inspired by OpenWeather. Thi
 *   **Clean UI/UX:** Utilizes engaging gradients, smooth transitions, and easy-to-read typography.
 *   **Location-Aware:** Uses `geolocator` and `geocoding` for fetching localized weather data.
 *   **Persistent Storage:** Implements `get_storage` for caching and local data management.
+
+## Screenshots
+
+<p align="center">
+  <img src="ss1.png" alt="Screenshot 1" width="300" style="margin-right: 20px;" />
+  <img src="ss2.png" alt="Screenshot 2" width="300" />
+</p>
 
 ## Tech Stack
 
